@@ -2,7 +2,7 @@
 
 ### About me:
 
-Hi! I'm Philip, a recent graduate from Arizona State University with a Bachelor's of Science in Data Science. This is my portfolio of data science projects that covers many of the valuable skills I learned in my education. I am passionate about making positive change in the world through and hope to do so in my future career. 
+Hi! I'm Philip, a recent graduate from Arizona State University with a Bachelor's of Science in Data Science. This is my portfolio of data science projects that covers many of the valuable skills I learned in my education. I am passionate about making positive change in the world and hope to do so in my future career. 
 
 ### My Projects:
 
